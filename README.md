@@ -14,3 +14,19 @@ The course ends with a practical JavaScript programming exam with automated asse
 Basic knowledge of JavaScript is needed for anyone who wants to deal with something related to web development or server JavaScript development.
 
 The course is part of the complete program with JavaScript courses and tutorials for the <a href="https://softuni.bg/professions/javascript">JavaScript developer</a> training at the University of Software.
+
+<b>SKILLS YOU WILL GAIN</b>
+<ul>
+  <li>Basic JavaScript programming</li>
+  <li>Programming logic with cycles, conditional constructions and functions</li>
+  <li>Working with variables, operators, expressions, arrays and matrices</li>
+  <li>Word processing and regular expressions</li>
+  <li>Working with JSON format</li>
+  <li>Working with associative arrays and sets</li>
+</ul>
+ 
+ 
+ 
+ 
+ 
+
