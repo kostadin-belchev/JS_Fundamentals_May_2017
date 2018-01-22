@@ -1,7 +1,7 @@
 function squareOfStars (n = 5) {
     let figure = '';
     for (let i = 1; i <= n; i++) {
-        figure += '*'.repeat(n) + "\n";
+        figure += '* '.repeat(n) + "\n";
     }
     return figure;
 }
