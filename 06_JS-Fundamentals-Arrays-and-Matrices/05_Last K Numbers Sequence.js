@@ -9,7 +9,6 @@ function lastKNumsSequence (n, k) {
         let sumOfLast3 = result.slice(start, end).reduce((a,b) => a + b);
         result.push(sumOfLast3);
     }
-
     return result.join(" ");
 }
 
