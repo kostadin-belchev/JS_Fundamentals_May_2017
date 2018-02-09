@@ -1,2 +1,0 @@
-<message to="Bob" from="Alice" timestamp="1497254114">Same old, same old
-Let's go out for a beer</message>

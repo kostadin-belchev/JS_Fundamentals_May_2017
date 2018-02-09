@@ -1,2 +1,0 @@
-<message to="printer" from="spooler">We posses the knowledge of multi-line printing
-There it is demonstrated</message>
