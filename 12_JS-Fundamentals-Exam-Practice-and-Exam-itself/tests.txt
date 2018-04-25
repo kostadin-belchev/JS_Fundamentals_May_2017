@@ -1,0 +1,11 @@
+Nrof1244
+
+(?:.*)<svg><cat><text>(.*)<\/text><\/cat>\s*<cat>(.*)<\/cat><\/svg>(?:.*)
+
+(?:.*)<svg><cat><text>(?:.*)\[(.*)\]<\/text><\/cat>\s*<cat>(<g>(.*)<\/g>)*<\/cat><\/svg>(?:.*)
+
+
+let attackingKingdom = battle[i];
+            let attackingGeneral = matrix[i + 1];
+            let defendingKingdom = matrix[i + 2];
+            let defendingGeneral = matrix[i + 3];
